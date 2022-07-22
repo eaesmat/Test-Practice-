@@ -1,0 +1,23 @@
+{
+  "name": "test-js",
+  "version": "1.0.0",
+  "description": "## Built With",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eaesmat/Test-Practice-.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eaesmat/Test-Practice-.git/issues"
+  },
+  "homepage": "https://github.com/eaesmat/Test-Practice-.git#readme",
+  "devDependencies": {
+    "jest": "^28.0.3"
+  }
+}
